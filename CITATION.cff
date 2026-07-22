@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Smart and Sustainable Cities: Urban Sports Infrastructure and Premature NCD Mortality in São Paulo"
+type: software
+authors:
+  - family-names: "Marques"
+    given-names: "Karinne Regina Simplicio"
+    affiliation: "Graduate Program in Smart and Sustainable Cities (PPG-CIS), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
+    orcid: "https://orcid.org/0009-0007-2394-1080"
+
+  - family-names: "Ferreira dos Santos"
+    given-names: "André Luis Marques"
+    affiliation: "Graduate Program in Informatics ans Knowledge Management (PPGI), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
+    orcid: "https://orcid.org/0000-0002-5232-0781"
+
+  - family-names: "Pellini"
+    given-names: "Alessandra Cristina Guedes"
+    affiliation: "Graduate Program in Smart and Sustainable Cities (PPG-CIS), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
+    orcid: "https://orcid.org/0000-0002-3799-9415"
+
+repository-code: "https://github.com/karinneregina/SmartCities_GeoAI"
+url: "https://github.com/karinneregina/SmartCities_GeoAI"
+version: "0.1.0"
+date-released: "2026-07-22"
+license: MIT
+abstract: >-
+  Research repository for a doctoral study on Smart and Sustainable Cities
+  investigating temporal and spatial relationships between urban sports and
+  recreation infrastructure and premature mortality from non-communicable
+  diseases among adults aged 30–69 years in São Paulo, Brazil. The project
+  integrates GeoAI, GIS, artificial intelligence, spatial epidemiology, and
+  data science to support evidence-based public policies.
+keywords:
+  - smart cities
+  - sustainable cities
+  - GeoAI
+  - GIS
+  - spatial epidemiology
+  - non-communicable diseases
+  - sports infrastructure
+  - São Paulo
+  - public policy

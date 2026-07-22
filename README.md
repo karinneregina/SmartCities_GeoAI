@@ -1,303 +1,113 @@
-# 🏙️ Geospatial Artificial Intelligence (GeoAI) for Smart Cities and Public Health
-PhD research repository on Smart and Sustainable Cities at [Nove de Julho University](https://www.uninove.br/cursos/mestrado-e-doutorado/presencial/mestrado-em-cidades-inteligentes-e-sustentaveis), São Paulo, Brazil. The study investigates the relationship between urban sports infrastructure and premature mortality from non-communicable diseases in São Paulo (2015–2025), integrating GeoAI, GIS, Artificial Intelligence and Spatial Epidemiology.
+# Smart and Sustainable Cities: Urban Sports Infrastructure and Premature NCD Mortality
 
-## 📖 About this Doctoral Research Repository
-This repository contains the computational artifacts, datasets, documentation, and analytical workflows developed during my **PhD research** in the Graduate Program in **Smart and Sustainable Cities**.
+PhD research repository developed at **Nove de Julho University (UNINOVE), São Paulo, Brazil**, within the Smart and Sustainable Cities research field.
 
-The research investigates how **urban infrastructure**, particularly **public sports and recreation facilities**, is associated with the **premature mortality from Non-Communicable Diseases (NCDs)** in the municipality of São Paulo, Brazil.
+The study investigates the relationship between the availability of urban sports and recreation infrastructure and premature mortality from non-communicable diseases (NCDs) among people aged 30–69 years in the municipality of São Paulo. The research combines public health data, urban infrastructure indicators, geospatial analysis, GeoAI, GIS, artificial intelligence, spatial epidemiology, and data science to support evidence-based urban and health policies.
 
-The project combines **Geospatial Artificial Intelligence (GeoAI)**, Geographic Information Systems (GIS), Artificial Intelligence, Spatial Statistics, Epidemiology, and Data Science to support evidence-based public policies aligned with the **United Nations Sustainable Development Goals (SDGs)**.
+## Research objectives
 
----
+The main objective is to assess temporal and spatial associations between sports and recreation infrastructure and premature NCD mortality in São Paulo. The study also examines changes associated with the 2030 Agenda, particularly Sustainable Development Goal target 3.4.
 
-# 🎯 Research Objective
+## Study area and period
 
-To analyze the relationship between the spatial distribution of public sports infrastructure and premature mortality caused by chronic non-communicable diseases (NCDs) in the city of São Paulo between **2015 and 2025**, using Artificial Intelligence, Geospatial Analytics and Spatial Epidemiology.
+- **Study area:** Municipality of São Paulo, Brazil
+- **Spatial units:** municipality, administrative subprefectures, districts, and geographic zones, according to data availability
+- **Primary period:** 2015–2025
+- **Additional historical analyses:** data from 2008 onward may be incorporated when required for pre- and post-2030 Agenda comparisons
 
----
+## Main data sources
 
-# 🌎 Research Context
+- Mortality Information System and TABNET/PRO-AIM/SMS-SP
+- São Paulo Municipal Department of Urban Development and Licensing
+- GeoSampa geospatial datasets
+- Population estimates from official municipal and health information systems
+- Supplementary socioeconomic and territorial indicators, including vulnerability measures when applicable
 
-Urban environments directly influence population health.
+## Repository structure
 
-The availability of parks, public sports facilities, green areas, cycling infrastructure and leisure spaces contributes to:
-
-* increased physical activity;
-* reduction of sedentary lifestyles;
-* prevention of chronic diseases;
-* reduction in premature mortality;
-* improvement in quality of life.
-
-This research investigates whether municipalities and districts with greater availability of sports infrastructure also present lower mortality indicators.
-
----
-
-# 🔬 Research Questions
-
-The study seeks to answer questions such as:
-
-* Is there an association between sports infrastructure and premature mortality?
-
-* Does the increase in public sports facilities reduce mortality from NCDs?
-
-* Can Artificial Intelligence improve the identification of spatial health inequalities?
-
-* How can GeoAI support Smart City public policies?
-
----
-
-# 🧠 Main Technologies
-
-* Python
-* Google Colab
-* GeoPandas
-* Pandas
-* NumPy
-* Scikit-Learn
-* Statsmodels
-* SciPy
-* Matplotlib
-* Plotly
-* Folium
-* QGIS
-* ArcGIS
-* GIS
-* GeoAI
-* Machine Learning
-
----
-
-# 📊 Data Sources
-
-The research integrates several official public databases.
-
-## Health
-
-* PRO-AIM
-* SIM – Mortality Information System
-* DATASUS
-* TABNET
-* Municipal Health Department of São Paulo
-
-Variables include:
-
-* ICD-10 codes
-* Premature mortality (30–69 years)
-* Cause of death
-* Sex
-* Age
-* Year
-* District
-* Subprefecture
-
----
-
-## Urban Infrastructure
-
-São Paulo Open Data
-
-InfoCidade
-
-GeoSampa
-
-Variables include:
-
-* Public sports facilities
-* Parks
-* Green areas
-* Bike lanes
-* Administrative boundaries
-* Districts
-* Subprefectures
-
----
-
-## Population
-
-Municipal demographic estimates
-
-Population by:
-
-* year
-* district
-* subprefecture
-
-Used for rate standardization.
-
----
-
-# ⚙️ Research Workflow
-
-```
-Official Databases
-        │
-        ▼
-Data Collection
-        │
-        ▼
-Backup Repository
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Data Standardization
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Database Integration
-        │
-        ▼
-Spatial Analysis
-        │
-        ▼
-Statistical Modeling
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-GeoAI Analysis
-        │
-        ▼
-Scientific Publications
-```
-
----
-
-# 📁 Repository Structure
-
-```
+```text
+.
+├── README.md
+├── LICENSE
+├── CITATION.cff
+├── requirements.txt
+├── environment.yml
+├── Makefile
+├── ROADMAP.md
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── data_dictionary.xlsx
+├── docs/
+│   ├── methodology.md
+│   ├── data_collection.md
+│   ├── data_processing.md
+│   ├── analysis_plan.md
+│   ├── reproducibility.md
+│   └── ethics_and_governance.md
 ├── data/
 │   ├── raw/
+│   ├── interim/
 │   ├── processed/
-│   ├── external/
-│   └── backup/
-│
+│   └── external/
 ├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_spatial_analysis.ipynb
-│   ├── 05_statistical_models.ipynb
-│   ├── 06_machine_learning.ipynb
-│   └── 07_visualizations.ipynb
-│
 ├── src/
-│
-├── figures/
-│
-├── tables/
-│
-├── maps/
-│
-├── docs/
-│
-├── references/
-│
-├── papers/
-│
-└── README.md
+├── outputs/
+│   ├── figures/
+│   ├── tables/
+│   └── reports/
+└── tests/
 ```
 
----
+> Raw or restricted data should not be committed when licensing, privacy, ethical, or institutional rules prohibit redistribution.
 
-# 📈 Statistical Methods
+## Reproducibility
 
-The project employs several quantitative methods, including:
+Create the computational environment with either Conda or `pip`:
 
-* Descriptive Statistics
-* Exploratory Data Analysis
-* Correlation Analysis
-* Multiple Linear Regression
-* Spatial Analysis
-* Time Series Analysis
-* Geographic Information Systems (GIS)
-* Geospatial Artificial Intelligence (GeoAI)
-* Machine Learning
+```bash
+conda env create -f environment.yml
+conda activate cis-geoai
+```
 
----
+or
 
-# 🗺️ Spatial Units
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-Analyses are conducted at multiple geographic levels:
+Run the standard workflow with:
 
-* Municipality
-* Administrative Zones
-* Subprefectures
-* Districts
+```bash
+make setup
+make validate
+make process
+make analysis
+make all
+```
 
----
+The commands assume that executable scripts will be stored in `src/` and notebooks in `notebooks/`. Targets that depend on scripts not yet implemented return an informative message instead of silently failing.
 
-# 📌 Study Period
+## Data governance
 
-**2015–2025**
+The project primarily uses secondary, aggregated, and publicly available data. Nevertheless, all files must be assessed for disclosure risk, personal data, licensing restrictions, and compliance with Brazilian data protection law. Individual-level identifiable data must never be committed to this repository.
 
----
+## Citation
 
-# 🌱 Sustainable Development Goals
+Use the citation metadata provided in [`CITATION.cff`](CITATION.cff). GitHub can automatically generate citation formats from this file.
 
-This research contributes primarily to:
+## License
 
-* SDG 3 — Good Health and Well-being
-* SDG 11 — Sustainable Cities and Communities
-* SDG 10 — Reduced Inequalities
-* SDG 9 — Industry, Innovation and Infrastructure
+Code is released under the MIT License. Original documentation, figures, tables, and textual research materials are licensed under Creative Commons Attribution 4.0 International, unless a file states otherwise. Third-party data remain subject to their original terms.
 
----
+## Author and institutional affiliation
 
-# 📚 Expected Scientific Contributions
+**André Santos**  
+PhD Researcher, Smart and Sustainable Cities  
+Nove de Julho University (UNINOVE)  
+São Paulo, Brazil
 
-The research aims to:
+## Repository status
 
-* identify spatial inequalities in urban health;
-* evaluate the relationship between sports infrastructure and health outcomes;
-* support evidence-based public policy;
-* demonstrate the application of GeoAI in Smart Cities;
-* provide reproducible computational workflows for urban health research.
-
----
-
-# 🔄 Reproducibility
-
-All analytical workflows were designed to be reproducible.
-
-The repository includes:
-
-* Python notebooks
-* Data dictionaries
-* Processing scripts
-* Statistical models
-* Maps
-* Figures
-* Documentation
-
----
-
-# 👨‍🎓 Authors
-
-* __Karinne Marques__, PhD Candidate
-* __André Santos__, Associate Researcher
-
-Graduate Program in Smart and Sustainable Cities
-
-Research Area:
-
-* Artificial Intelligence
-* Geospatial Artificial Intelligence (GeoAI)
-* Smart Cities
-* Urban Health
-* Spatial Epidemiology
-* Data Science
-
----
-
-# 📄 License
-
-This repository is intended for academic and research purposes.
-
-Unless otherwise stated, the code is distributed under the **MIT License**.
-
----
+This repository supports an ongoing doctoral research project. Methods, datasets, scripts, and results may be revised as the thesis progresses. See [`ROADMAP.md`](ROADMAP.md) and [`CHANGELOG.md`](CHANGELOG.md).
