@@ -1,0 +1,1068 @@
+year,zone,subprefecture_name_original,subprefecture_name,district_name_original,district_name,population
+2015,Downtown,Sé,SE,Bela Vista,Bela_Vista,65927
+2015,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33829
+2015,Downtown,Sé,SE,Cambuci,Cambuci,40461
+2015,Downtown,Sé,SE,Consolação,Consolacao,56206
+2015,Downtown,Sé,SE,Liberdade,Liberdade,68390
+2015,Downtown,Sé,SE,República,Republica,58872
+2015,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,83013
+2015,Downtown,Sé,SE,Sé,Se,23956
+2015,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86402
+2015,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90552
+2015,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,102465
+2015,East_1,Mooca,MOOCA,Belém,Belem,49514
+2015,East_1,Mooca,MOOCA,Brás,Bras,33153
+2015,East_1,Penha,PENHA,Cangaíba,Cangaiba,139622
+2015,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,84825
+2015,East_1,Mooca,MOOCA,Moóca,Mooca,78848
+2015,East_1,Mooca,MOOCA,Pari,Pari,17370
+2015,East_1,Penha,PENHA,Penha,Penha,131070
+2015,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,142110
+2015,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,280098
+2015,East_1,Mooca,MOOCA,Tatuapé,Tatuape,95445
+2015,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94892
+2015,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105417
+2015,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,105621
+2015,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,131477
+2015,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,205661
+2015,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113745
+2015,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,106546
+2015,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,137210
+2015,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,217894
+2015,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,208645
+2015,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,133731
+2015,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,126721
+2015,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165607
+2015,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,71382
+2015,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,93274
+2015,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156578
+2015,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,88116
+2015,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,146287
+2015,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,146982
+2015,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,140105
+2015,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,92079
+2015,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,107266
+2015,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118967
+2015,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,197936
+2015,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100027
+2015,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,54237
+2015,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,111859
+2015,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,124741
+2015,North_2,Perus,PERUS,Anhanguera,Anhanguera,69830
+2015,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,257573
+2015,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144464
+2015,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,84552
+2015,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,141910
+2015,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,196643
+2015,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,81994
+2015,North_2,Perus,PERUS,Perus,Perus,83717
+2015,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,174500
+2015,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,87381
+2015,West,,NAO_IDENTIFICADO,OESTE,OESTE,1060120
+2015,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,41493
+2015,West,Lapa,LAPA,Barra Funda,Barra_Funda,22134
+2015,West,Butantã,BUTANTA,Butantã,Butanta,53642
+2015,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,96570
+2015,West,Lapa,LAPA,Jaguara,Jaguara,25009
+2015,West,Lapa,LAPA,Jaguaré,Jaguare,52344
+2015,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,86423
+2015,West,Lapa,LAPA,Lapa,Lapa,70511
+2015,West,Butantã,BUTANTA,Morumbi,Morumbi,45993
+2015,West,Lapa,LAPA,Perdizes,Perdizes,108575
+2015,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65572
+2015,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,108066
+2015,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,125141
+2015,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,42951
+2015,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,115696
+2015,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,107731
+2015,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,111726
+2015,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,222028
+2015,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83486
+2015,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,254931
+2015,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,131118
+2015,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,130165
+2015,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,68827
+2015,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,108161
+2015,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,222403
+2015,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,271619
+2015,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,261250
+2015,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,192329
+2015,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,372265
+2015,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,303409
+2015,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,265778
+2015,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,9610
+2015,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,140528
+2015,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,153032
+2015,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,77984
+2015,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38397
+2015,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,144229
+2016,Downtown,Sé,SE,Bela Vista,Bela_Vista,65138
+2016,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33819
+2016,Downtown,Sé,SE,Cambuci,Cambuci,41180
+2016,Downtown,Sé,SE,Consolação,Consolacao,55955
+2016,Downtown,Sé,SE,Liberdade,Liberdade,68247
+2016,Downtown,Sé,SE,República,Republica,59310
+2016,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,82848
+2016,Downtown,Sé,SE,Sé,Se,24069
+2016,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86645
+2016,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90678
+2016,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,101713
+2016,East_1,Mooca,MOOCA,Belém,Belem,50457
+2016,East_1,Mooca,MOOCA,Brás,Bras,33941
+2016,East_1,Penha,PENHA,Cangaíba,Cangaiba,140062
+2016,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85022
+2016,East_1,Mooca,MOOCA,Moóca,Mooca,79385
+2016,East_1,Mooca,MOOCA,Pari,Pari,17370
+2016,East_1,Penha,PENHA,Penha,Penha,131574
+2016,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,141898
+2016,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,278790
+2016,East_1,Mooca,MOOCA,Tatuapé,Tatuape,96179
+2016,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94760
+2016,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105511
+2016,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,105962
+2016,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,132481
+2016,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,204354
+2016,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113799
+2016,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,107270
+2016,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,138949
+2016,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,216478
+2016,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,209470
+2016,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,133240
+2016,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,127010
+2016,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165802
+2016,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,72057
+2016,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,93075
+2016,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156671
+2016,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,87682
+2016,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,146741
+2016,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,146220
+2016,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,139374
+2016,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,91504
+2016,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,107082
+2016,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118877
+2016,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,198081
+2016,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100243
+2016,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,54155
+2016,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,111526
+2016,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,123677
+2016,North_2,Perus,PERUS,Anhanguera,Anhanguera,70593
+2016,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,256167
+2016,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144684
+2016,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,84263
+2016,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,141733
+2016,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,199000
+2016,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82369
+2016,North_2,Perus,PERUS,Perus,Perus,84448
+2016,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,175685
+2016,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,87804
+2016,West,,NAO_IDENTIFICADO,OESTE,OESTE,1067571
+2016,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,41081
+2016,West,Lapa,LAPA,Barra Funda,Barra_Funda,23775
+2016,West,Butantã,BUTANTA,Butantã,Butanta,53600
+2016,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,97445
+2016,West,Lapa,LAPA,Jaguara,Jaguara,25014
+2016,West,Lapa,LAPA,Jaguaré,Jaguare,52880
+2016,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,85958
+2016,West,Lapa,LAPA,Lapa,Lapa,71407
+2016,West,Butantã,BUTANTA,Morumbi,Morumbi,45923
+2016,West,Lapa,LAPA,Perdizes,Perdizes,108013
+2016,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65693
+2016,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,109679
+2016,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,126399
+2016,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,43639
+2016,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,117065
+2016,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,107408
+2016,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,112628
+2016,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,221557
+2016,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83437
+2016,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,256382
+2016,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,131015
+2016,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,130118
+2016,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,69350
+2016,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,109519
+2016,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,224704
+2016,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,271916
+2016,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,260217
+2016,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,191306
+2016,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,374432
+2016,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,304837
+2016,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,265296
+2016,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,9893
+2016,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,142591
+2016,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,154672
+2016,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,79244
+2016,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38470
+2016,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,147647
+2017,Downtown,Sé,SE,Bela Vista,Bela_Vista,64317
+2017,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33809
+2017,Downtown,Sé,SE,Cambuci,Cambuci,41907
+2017,Downtown,Sé,SE,Consolação,Consolacao,55669
+2017,Downtown,Sé,SE,Liberdade,Liberdade,68069
+2017,Downtown,Sé,SE,República,Republica,59671
+2017,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,82652
+2017,Downtown,Sé,SE,Sé,Se,24127
+2017,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86841
+2017,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90774
+2017,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,100951
+2017,East_1,Mooca,MOOCA,Belém,Belem,51391
+2017,East_1,Mooca,MOOCA,Brás,Bras,34715
+2017,East_1,Penha,PENHA,Cangaíba,Cangaiba,140476
+2017,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85220
+2017,East_1,Mooca,MOOCA,Moóca,Mooca,79902
+2017,East_1,Mooca,MOOCA,Pari,Pari,17381
+2017,East_1,Penha,PENHA,Penha,Penha,132028
+2017,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,141690
+2017,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,277313
+2017,East_1,Mooca,MOOCA,Tatuapé,Tatuape,96931
+2017,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94606
+2017,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105604
+2017,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106275
+2017,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,133431
+2017,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,202904
+2017,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113791
+2017,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,107936
+2017,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,140594
+2017,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,214976
+2017,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,210273
+2017,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,132656
+2017,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,127305
+2017,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165895
+2017,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,72686
+2017,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,92823
+2017,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156707
+2017,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,87186
+2017,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147164
+2017,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,145415
+2017,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,138587
+2017,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,90965
+2017,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,106865
+2017,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118749
+2017,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,198113
+2017,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100456
+2017,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,54007
+2017,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,111163
+2017,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,122549
+2017,North_2,Perus,PERUS,Anhanguera,Anhanguera,71363
+2017,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,254644
+2017,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144856
+2017,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,83880
+2017,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,141481
+2017,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,201299
+2017,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82686
+2017,North_2,Perus,PERUS,Perus,Perus,85063
+2017,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,176746
+2017,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,88160
+2017,West,,NAO_IDENTIFICADO,OESTE,OESTE,1074512
+2017,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,40652
+2017,West,Lapa,LAPA,Barra Funda,Barra_Funda,25404
+2017,West,Butantã,BUTANTA,Butantã,Butanta,53525
+2017,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,98328
+2017,West,Lapa,LAPA,Jaguara,Jaguara,25013
+2017,West,Lapa,LAPA,Jaguaré,Jaguare,53403
+2017,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,85481
+2017,West,Lapa,LAPA,Lapa,Lapa,72290
+2017,West,Butantã,BUTANTA,Morumbi,Morumbi,45814
+2017,West,Lapa,LAPA,Perdizes,Perdizes,107385
+2017,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65823
+2017,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,111216
+2017,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,127520
+2017,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,44310
+2017,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,118348
+2017,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,107004
+2017,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,113496
+2017,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,221024
+2017,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83392
+2017,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,257794
+2017,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,130893
+2017,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,130028
+2017,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,69868
+2017,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,110796
+2017,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,226903
+2017,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,272043
+2017,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,259059
+2017,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,190154
+2017,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,376456
+2017,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,306134
+2017,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,264695
+2017,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,10176
+2017,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,144662
+2017,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,156306
+2017,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,80503
+2017,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38535
+2017,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,151073
+2018,Downtown,Sé,SE,Bela Vista,Bela_Vista,63629
+2018,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33799
+2018,Downtown,Sé,SE,Cambuci,Cambuci,42669
+2018,Downtown,Sé,SE,Consolação,Consolacao,55411
+2018,Downtown,Sé,SE,Liberdade,Liberdade,67872
+2018,Downtown,Sé,SE,República,Republica,59964
+2018,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,82492
+2018,Downtown,Sé,SE,Sé,Se,24127
+2018,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,87001
+2018,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90870
+2018,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,100242
+2018,East_1,Mooca,MOOCA,Belém,Belem,52323
+2018,East_1,Mooca,MOOCA,Brás,Bras,35537
+2018,East_1,Penha,PENHA,Cangaíba,Cangaiba,140906
+2018,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85446
+2018,East_1,Mooca,MOOCA,Moóca,Mooca,80436
+2018,East_1,Mooca,MOOCA,Pari,Pari,17387
+2018,East_1,Penha,PENHA,Penha,Penha,132554
+2018,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,141479
+2018,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,275758
+2018,East_1,Mooca,MOOCA,Tatuapé,Tatuape,97642
+2018,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94451
+2018,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105667
+2018,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106519
+2018,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,134364
+2018,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,201399
+2018,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113735
+2018,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108373
+2018,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,142351
+2018,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,213374
+2018,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,210970
+2018,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,132183
+2018,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,127695
+2018,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165857
+2018,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,73219
+2018,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,92581
+2018,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156824
+2018,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,86288
+2018,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147462
+2018,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,144754
+2018,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,137917
+2018,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,90513
+2018,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,106576
+2018,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118652
+2018,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,198046
+2018,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100708
+2018,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,53871
+2018,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,110787
+2018,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,121373
+2018,North_2,Perus,PERUS,Anhanguera,Anhanguera,72159
+2018,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,252914
+2018,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144996
+2018,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,83450
+2018,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,141140
+2018,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,203595
+2018,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82885
+2018,North_2,Perus,PERUS,Perus,Perus,85628
+2018,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,177721
+2018,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,88534
+2018,West,,NAO_IDENTIFICADO,OESTE,OESTE,1081167
+2018,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,40224
+2018,West,Lapa,LAPA,Barra Funda,Barra_Funda,27062
+2018,West,Butantã,BUTANTA,Butantã,Butanta,53352
+2018,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,99248
+2018,West,Lapa,LAPA,Jaguara,Jaguara,25028
+2018,West,Lapa,LAPA,Jaguaré,Jaguare,53919
+2018,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,85047
+2018,West,Lapa,LAPA,Lapa,Lapa,73212
+2018,West,Butantã,BUTANTA,Morumbi,Morumbi,45569
+2018,West,Lapa,LAPA,Perdizes,Perdizes,106726
+2018,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65923
+2018,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,112717
+2018,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,128544
+2018,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,44976
+2018,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,119620
+2018,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,106581
+2018,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,114406
+2018,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,220470
+2018,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83403
+2018,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,259190
+2018,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,130867
+2018,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,129950
+2018,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,70377
+2018,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,112128
+2018,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,229038
+2018,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,272163
+2018,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,257639
+2018,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,188980
+2018,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,378549
+2018,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,307467
+2018,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,263996
+2018,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,10456
+2018,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,146672
+2018,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,157901
+2018,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,81779
+2018,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38618
+2018,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,154637
+2019,Downtown,Sé,SE,Bela Vista,Bela_Vista,62934
+2019,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33759
+2019,Downtown,Sé,SE,Cambuci,Cambuci,43396
+2019,Downtown,Sé,SE,Consolação,Consolacao,55131
+2019,Downtown,Sé,SE,Liberdade,Liberdade,67637
+2019,Downtown,Sé,SE,República,Republica,60229
+2019,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,82339
+2019,Downtown,Sé,SE,Sé,Se,24097
+2019,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,87128
+2019,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90906
+2019,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,99514
+2019,East_1,Mooca,MOOCA,Belém,Belem,53269
+2019,East_1,Mooca,MOOCA,Brás,Bras,36351
+2019,East_1,Penha,PENHA,Cangaíba,Cangaiba,141222
+2019,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85625
+2019,East_1,Mooca,MOOCA,Moóca,Mooca,80892
+2019,East_1,Mooca,MOOCA,Pari,Pari,17391
+2019,East_1,Penha,PENHA,Penha,Penha,133034
+2019,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,141202
+2019,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,274077
+2019,East_1,Mooca,MOOCA,Tatuapé,Tatuape,98355
+2019,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94276
+2019,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105628
+2019,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106637
+2019,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,135203
+2019,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,199853
+2019,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113589
+2019,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108709
+2019,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,144126
+2019,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,211648
+2019,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,211411
+2019,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,131634
+2019,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128076
+2019,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165649
+2019,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,73652
+2019,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,92250
+2019,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156870
+2019,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,85185
+2019,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147676
+2019,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,144058
+2019,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,137253
+2019,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,90015
+2019,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,106219
+2019,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118481
+2019,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,197810
+2019,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100888
+2019,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,53729
+2019,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,110362
+2019,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,120154
+2019,North_2,Perus,PERUS,Anhanguera,Anhanguera,72973
+2019,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,250868
+2019,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144907
+2019,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,82998
+2019,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,140627
+2019,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,205775
+2019,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82929
+2019,North_2,Perus,PERUS,Perus,Perus,86140
+2019,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,178575
+2019,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,88883
+2019,West,,NAO_IDENTIFICADO,OESTE,OESTE,1087367
+2019,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,39787
+2019,West,Lapa,LAPA,Barra Funda,Barra_Funda,28732
+2019,West,Butantã,BUTANTA,Butantã,Butanta,53138
+2019,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,100161
+2019,West,Lapa,LAPA,Jaguara,Jaguara,25038
+2019,West,Lapa,LAPA,Jaguaré,Jaguare,54408
+2019,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,84605
+2019,West,Lapa,LAPA,Lapa,Lapa,74160
+2019,West,Butantã,BUTANTA,Morumbi,Morumbi,45257
+2019,West,Lapa,LAPA,Perdizes,Perdizes,106079
+2019,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,66016
+2019,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,114082
+2019,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,129424
+2019,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,45617
+2019,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,120863
+2019,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,106105
+2019,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,115314
+2019,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,219734
+2019,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83385
+2019,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,260391
+2019,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,130911
+2019,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,129879
+2019,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,70883
+2019,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,113479
+2019,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,231145
+2019,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,272019
+2019,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,255909
+2019,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,187704
+2019,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,380427
+2019,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,308661
+2019,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,262997
+2019,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,10728
+2019,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,148538
+2019,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,159427
+2019,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,83062
+2019,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38673
+2019,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,158173
+2020,Downtown,Sé,SE,Bela Vista,Bela_Vista,62051
+2020,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33643
+2020,Downtown,Sé,SE,Cambuci,Cambuci,44038
+2020,Downtown,Sé,SE,Consolação,Consolacao,54708
+2020,Downtown,Sé,SE,Liberdade,Liberdade,67248
+2020,Downtown,Sé,SE,República,Republica,60441
+2020,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,82078
+2020,Downtown,Sé,SE,Sé,Se,23963
+2020,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,87131
+2020,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90822
+2020,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,98592
+2020,East_1,Mooca,MOOCA,Belém,Belem,54090
+2020,East_1,Mooca,MOOCA,Brás,Bras,37050
+2020,East_1,Penha,PENHA,Cangaíba,Cangaiba,141391
+2020,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85619
+2020,East_1,Mooca,MOOCA,Moóca,Mooca,81189
+2020,East_1,Mooca,MOOCA,Pari,Pari,17378
+2020,East_1,Penha,PENHA,Penha,Penha,133304
+2020,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,140730
+2020,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,271964
+2020,East_1,Mooca,MOOCA,Tatuapé,Tatuape,98946
+2020,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,94005
+2020,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105373
+2020,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106664
+2020,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,135824
+2020,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,197970
+2020,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,113217
+2020,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108950
+2020,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,145745
+2020,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,209685
+2020,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,211440
+2020,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,130874
+2020,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128315
+2020,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,165158
+2020,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,73998
+2020,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,91764
+2020,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156649
+2020,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,83916
+2020,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147839
+2020,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,143104
+2020,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,136439
+2020,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,89373
+2020,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,105726
+2020,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,118092
+2020,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,197345
+2020,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100909
+2020,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,53500
+2020,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,109841
+2020,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,118765
+2020,North_2,Perus,PERUS,Anhanguera,Anhanguera,73658
+2020,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,248298
+2020,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,144508
+2020,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,82404
+2020,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,139862
+2020,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,207658
+2020,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82847
+2020,North_2,Perus,PERUS,Perus,Perus,86580
+2020,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,179287
+2020,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,89108
+2020,West,,NAO_IDENTIFICADO,OESTE,OESTE,1092200
+2020,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,39295
+2020,West,Lapa,LAPA,Barra Funda,Barra_Funda,30377
+2020,West,Butantã,BUTANTA,Butantã,Butanta,52904
+2020,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,100992
+2020,West,Lapa,LAPA,Jaguara,Jaguara,25019
+2020,West,Lapa,LAPA,Jaguaré,Jaguare,54807
+2020,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,84053
+2020,West,Lapa,LAPA,Lapa,Lapa,75048
+2020,West,Butantã,BUTANTA,Morumbi,Morumbi,44855
+2020,West,Lapa,LAPA,Perdizes,Perdizes,105333
+2020,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,66045
+2020,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,115258
+2020,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,130110
+2020,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,46131
+2020,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,121973
+2020,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,105535
+2020,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,116051
+2020,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,218612
+2020,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83272
+2020,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,261159
+2020,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,130767
+2020,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,129597
+2020,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,71323
+2020,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,114723
+2020,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,232854
+2020,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,271460
+2020,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,253795
+2020,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,186243
+2020,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,381606
+2020,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,309291
+2020,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,261699
+2020,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,11002
+2020,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,150067
+2020,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,160845
+2020,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,84254
+2020,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38672
+2020,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,161507
+2021,Downtown,Sé,SE,Bela Vista,Bela_Vista,61156
+2021,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33509
+2021,Downtown,Sé,SE,Cambuci,Cambuci,44634
+2021,Downtown,Sé,SE,Consolação,Consolacao,54271
+2021,Downtown,Sé,SE,Liberdade,Liberdade,66820
+2021,Downtown,Sé,SE,República,Republica,60624
+2021,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,81743
+2021,Downtown,Sé,SE,Sé,Se,23805
+2021,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86851
+2021,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,90497
+2021,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,97306
+2021,East_1,Mooca,MOOCA,Belém,Belem,54870
+2021,East_1,Mooca,MOOCA,Brás,Bras,37741
+2021,East_1,Penha,PENHA,Cangaíba,Cangaiba,141319
+2021,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85358
+2021,East_1,Mooca,MOOCA,Moóca,Mooca,81302
+2021,East_1,Mooca,MOOCA,Pari,Pari,17344
+2021,East_1,Penha,PENHA,Penha,Penha,133268
+2021,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,139791
+2021,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,269198
+2021,East_1,Mooca,MOOCA,Tatuapé,Tatuape,99221
+2021,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,93483
+2021,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,104739
+2021,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106520
+2021,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,136082
+2021,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,195449
+2021,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,112605
+2021,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108873
+2021,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,147083
+2021,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,207111
+2021,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,211000
+2021,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,129798
+2021,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128217
+2021,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,164243
+2021,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,74263
+2021,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,91039
+2021,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,156109
+2021,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,82405
+2021,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147691
+2021,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,141728
+2021,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,135258
+2021,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,88462
+2021,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,104934
+2021,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,117501
+2021,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,196566
+2021,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100702
+2021,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,53130
+2021,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,109169
+2021,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,117074
+2021,North_2,Perus,PERUS,Anhanguera,Anhanguera,74140
+2021,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,245109
+2021,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,143774
+2021,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,81620
+2021,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,138806
+2021,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,209034
+2021,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82653
+2021,North_2,Perus,PERUS,Perus,Perus,86859
+2021,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,179690
+2021,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,89107
+2021,West,,NAO_IDENTIFICADO,OESTE,OESTE,1095325
+2021,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,38676
+2021,West,Lapa,LAPA,Barra Funda,Barra_Funda,31985
+2021,West,Butantã,BUTANTA,Butantã,Butanta,52577
+2021,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,101717
+2021,West,Lapa,LAPA,Jaguara,Jaguara,24955
+2021,West,Lapa,LAPA,Jaguaré,Jaguare,55104
+2021,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,83480
+2021,West,Lapa,LAPA,Lapa,Lapa,75727
+2021,West,Butantã,BUTANTA,Morumbi,Morumbi,44324
+2021,West,Lapa,LAPA,Perdizes,Perdizes,104447
+2021,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,66007
+2021,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,116245
+2021,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,130709
+2021,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,46504
+2021,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,122868
+2021,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,104726
+2021,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,116503
+2021,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,217009
+2021,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,83045
+2021,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,261413
+2021,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,130338
+2021,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,129186
+2021,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,71599
+2021,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,115613
+2021,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,234034
+2021,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,270467
+2021,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,251066
+2021,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,184334
+2021,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,381813
+2021,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,309155
+2021,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,260066
+2021,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,11224
+2021,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,151159
+2021,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,161904
+2021,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,85238
+2021,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38550
+2021,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,164479
+2022,Downtown,Sé,SE,Bela Vista,Bela_Vista,60277
+2022,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33418
+2022,Downtown,Sé,SE,Cambuci,Cambuci,45259
+2022,Downtown,Sé,SE,Consolação,Consolacao,53924
+2022,Downtown,Sé,SE,Liberdade,Liberdade,66435
+2022,Downtown,Sé,SE,República,Republica,60718
+2022,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,81437
+2022,Downtown,Sé,SE,Sé,Se,23629
+2022,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86504
+2022,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,89998
+2022,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,95947
+2022,East_1,Mooca,MOOCA,Belém,Belem,55555
+2022,East_1,Mooca,MOOCA,Brás,Bras,38400
+2022,East_1,Penha,PENHA,Cangaíba,Cangaiba,141052
+2022,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,85122
+2022,East_1,Mooca,MOOCA,Moóca,Mooca,81423
+2022,East_1,Mooca,MOOCA,Pari,Pari,17326
+2022,East_1,Penha,PENHA,Penha,Penha,133179
+2022,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,138814
+2022,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,266379
+2022,East_1,Mooca,MOOCA,Tatuapé,Tatuape,99506
+2022,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,92885
+2022,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,104088
+2022,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106347
+2022,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,136309
+2022,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,193109
+2022,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,112073
+2022,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108645
+2022,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,148463
+2022,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,204458
+2022,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,210406
+2022,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,128564
+2022,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128201
+2022,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,163323
+2022,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,74416
+2022,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,90198
+2022,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,155467
+2022,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,80808
+2022,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147603
+2022,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,140360
+2022,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,134048
+2022,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,87497
+2022,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,104152
+2022,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,116831
+2022,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,195955
+2022,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100460
+2022,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,52764
+2022,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,108403
+2022,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,115273
+2022,North_2,Perus,PERUS,Anhanguera,Anhanguera,74860
+2022,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,241824
+2022,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,142761
+2022,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,80827
+2022,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,137618
+2022,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,210373
+2022,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82341
+2022,North_2,Perus,PERUS,Perus,Perus,87066
+2022,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,179888
+2022,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,89063
+2022,West,,NAO_IDENTIFICADO,OESTE,OESTE,1097765
+2022,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,38068
+2022,West,Lapa,LAPA,Barra Funda,Barra_Funda,33377
+2022,West,Butantã,BUTANTA,Butantã,Butanta,52168
+2022,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,102374
+2022,West,Lapa,LAPA,Jaguara,Jaguara,24869
+2022,West,Lapa,LAPA,Jaguaré,Jaguare,55349
+2022,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,82957
+2022,West,Lapa,LAPA,Lapa,Lapa,76310
+2022,West,Butantã,BUTANTA,Morumbi,Morumbi,43857
+2022,West,Lapa,LAPA,Perdizes,Perdizes,103602
+2022,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65995
+2022,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,117108
+2022,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,131069
+2022,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,46961
+2022,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,123701
+2022,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,103813
+2022,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,116842
+2022,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,215352
+2022,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,82918
+2022,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,261577
+2022,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,129881
+2022,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,128746
+2022,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,71779
+2022,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,116404
+2022,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,235049
+2022,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,269299
+2022,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,248360
+2022,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,182224
+2022,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,382371
+2022,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,309046
+2022,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,258268
+2022,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,11422
+2022,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,152299
+2022,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,162853
+2022,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,86227
+2022,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38360
+2022,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,167725
+2023,Downtown,Sé,SE,Bela Vista,Bela_Vista,59438
+2023,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33322
+2023,Downtown,Sé,SE,Cambuci,Cambuci,45896
+2023,Downtown,Sé,SE,Consolação,Consolacao,53610
+2023,Downtown,Sé,SE,Liberdade,Liberdade,65975
+2023,Downtown,Sé,SE,República,Republica,60916
+2023,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,81170
+2023,Downtown,Sé,SE,Sé,Se,23440
+2023,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,86297
+2023,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,89773
+2023,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,94840
+2023,East_1,Mooca,MOOCA,Belém,Belem,56454
+2023,East_1,Mooca,MOOCA,Brás,Bras,39149
+2023,East_1,Penha,PENHA,Cangaíba,Cangaiba,141015
+2023,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,84992
+2023,East_1,Mooca,MOOCA,Moóca,Mooca,81592
+2023,East_1,Mooca,MOOCA,Pari,Pari,17332
+2023,East_1,Penha,PENHA,Penha,Penha,133403
+2023,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,138079
+2023,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,263773
+2023,East_1,Mooca,MOOCA,Tatuapé,Tatuape,100093
+2023,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,92513
+2023,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,103610
+2023,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106313
+2023,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,136634
+2023,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,190611
+2023,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,111626
+2023,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108529
+2023,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,149914
+2023,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,201834
+2023,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,210141
+2023,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,127524
+2023,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128404
+2023,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,162474
+2023,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,74668
+2023,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,89441
+2023,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,155101
+2023,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,79411
+2023,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147465
+2023,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,139084
+2023,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,133074
+2023,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,86601
+2023,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,103526
+2023,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,116425
+2023,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,195227
+2023,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100403
+2023,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,52470
+2023,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,107669
+2023,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,113631
+2023,North_2,Perus,PERUS,Anhanguera,Anhanguera,75428
+2023,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,238405
+2023,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,141982
+2023,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,80147
+2023,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,136698
+2023,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,211913
+2023,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82257
+2023,North_2,Perus,PERUS,Perus,Perus,87323
+2023,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,180504
+2023,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,89199
+2023,West,,NAO_IDENTIFICADO,OESTE,OESTE,1101172
+2023,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,37532
+2023,West,Lapa,LAPA,Barra Funda,Barra_Funda,34965
+2023,West,Butantã,BUTANTA,Butantã,Butanta,51776
+2023,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,103131
+2023,West,Lapa,LAPA,Jaguara,Jaguara,24796
+2023,West,Lapa,LAPA,Jaguaré,Jaguare,55622
+2023,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,82430
+2023,West,Lapa,LAPA,Lapa,Lapa,77046
+2023,West,Butantã,BUTANTA,Morumbi,Morumbi,43285
+2023,West,Lapa,LAPA,Perdizes,Perdizes,102716
+2023,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,66035
+2023,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,118177
+2023,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,131664
+2023,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,47392
+2023,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,124605
+2023,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,102905
+2023,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,117376
+2023,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,213838
+2023,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,82756
+2023,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,262011
+2023,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,129530
+2023,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,128418
+2023,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,72068
+2023,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,117331
+2023,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,236260
+2023,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,268215
+2023,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,245527
+2023,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,180273
+2023,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,382640
+2023,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,308974
+2023,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,256293
+2023,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,11656
+2023,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,153407
+2023,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,163991
+2023,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,87297
+2023,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38265
+2023,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,170924
+2024,Downtown,Sé,SE,Bela Vista,Bela_Vista,58525
+2024,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,33179
+2024,Downtown,Sé,SE,Cambuci,Cambuci,46497
+2024,Downtown,Sé,SE,Consolação,Consolacao,53270
+2024,Downtown,Sé,SE,Liberdade,Liberdade,65479
+2024,Downtown,Sé,SE,República,Republica,61058
+2024,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,80819
+2024,Downtown,Sé,SE,Sé,Se,23209
+2024,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,85993
+2024,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,89499
+2024,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,93634
+2024,East_1,Mooca,MOOCA,Belém,Belem,57248
+2024,East_1,Mooca,MOOCA,Brás,Bras,39822
+2024,East_1,Penha,PENHA,Cangaíba,Cangaiba,140824
+2024,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,84724
+2024,East_1,Mooca,MOOCA,Moóca,Mooca,81707
+2024,East_1,Mooca,MOOCA,Pari,Pari,17321
+2024,East_1,Penha,PENHA,Penha,Penha,133409
+2024,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,137250
+2024,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,260925
+2024,East_1,Mooca,MOOCA,Tatuapé,Tatuape,100586
+2024,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,91975
+2024,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,103089
+2024,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,106187
+2024,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,136921
+2024,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,188093
+2024,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,111031
+2024,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,108377
+2024,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,151235
+2024,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,198999
+2024,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,209668
+2024,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,126316
+2024,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,128534
+2024,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,161642
+2024,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,74820
+2024,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,88640
+2024,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,154556
+2024,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,77860
+2024,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,147185
+2024,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,137675
+2024,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,131912
+2024,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,85579
+2024,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,102802
+2024,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,115913
+2024,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,194428
+2024,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,100340
+2024,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,52109
+2024,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,106771
+2024,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,111745
+2024,North_2,Perus,PERUS,Anhanguera,Anhanguera,75967
+2024,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,234740
+2024,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,141097
+2024,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,79301
+2024,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,135671
+2024,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,213163
+2024,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,82026
+2024,North_2,Perus,PERUS,Perus,Perus,87541
+2024,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,181007
+2024,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,89226
+2024,West,,NAO_IDENTIFICADO,OESTE,OESTE,1103539
+2024,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,36987
+2024,West,Lapa,LAPA,Barra Funda,Barra_Funda,36499
+2024,West,Butantã,BUTANTA,Butantã,Butanta,51323
+2024,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,103780
+2024,West,Lapa,LAPA,Jaguara,Jaguara,24715
+2024,West,Lapa,LAPA,Jaguaré,Jaguare,55846
+2024,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,81830
+2024,West,Lapa,LAPA,Lapa,Lapa,77737
+2024,West,Butantã,BUTANTA,Morumbi,Morumbi,42623
+2024,West,Lapa,LAPA,Perdizes,Perdizes,101794
+2024,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,66007
+2024,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,119088
+2024,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,132079
+2024,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,47815
+2024,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,125416
+2024,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,101967
+2024,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,117874
+2024,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,212047
+2024,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,82541
+2024,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,262208
+2024,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,129107
+2024,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,127995
+2024,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,72325
+2024,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,118297
+2024,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,237221
+2024,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,266833
+2024,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,242478
+2024,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,178182
+2024,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,382255
+2024,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,308554
+2024,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,254205
+2024,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,11902
+2024,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,154356
+2024,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,165028
+2024,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,88344
+2024,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,38111
+2024,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,174102
+2025,Downtown,Sé,SE,Bela Vista,Bela_Vista,73684
+2025,Downtown,Sé,SE,Bom Retiro,Bom_Retiro,40519
+2025,Downtown,Sé,SE,Cambuci,Cambuci,41540
+2025,Downtown,Sé,SE,Consolação,Consolacao,56853
+2025,Downtown,Sé,SE,Liberdade,Liberdade,73413
+2025,Downtown,Sé,SE,República,Republica,62444
+2025,Downtown,Sé,SE,Santa Cecília,Santa_Cecilia,88972
+2025,Downtown,Sé,SE,Sé,Se,27609
+2025,East_1,Mooca,MOOCA,Água Rasa,Agua_Rasa,81060
+2025,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Aricanduva,Aricanduva,85253
+2025,East_1,Penha,PENHA,Artur Alvim,Artur_Alvim,98350
+2025,East_1,Mooca,MOOCA,Belém,Belem,50317
+2025,East_1,Mooca,MOOCA,Brás,Bras,34258
+2025,East_1,Penha,PENHA,Cangaíba,Cangaiba,139005
+2025,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Carrão,Carrao,84798
+2025,East_1,Mooca,MOOCA,Moóca,Mooca,81050
+2025,East_1,Mooca,MOOCA,Pari,Pari,19709
+2025,East_1,Penha,PENHA,Penha,Penha,128899
+2025,East_1,Vila Prudente,VILA_PRUDENTE,São Lucas,Sao_Lucas,142593
+2025,East_1,Sapopemba,SAPOPEMBA,Sapopemba,Sapopemba,292948
+2025,East_1,Mooca,MOOCA,Tatuapé,Tatuape,96538
+2025,East_1,Aricanduva/Formosa/Carrão,ARICANDUVA_FORMOSA_CARRAO,Vila Formosa,Vila_Formosa,93350
+2025,East_1,Penha,PENHA,Vila Matilde,Vila_Matilde,105258
+2025,East_1,Vila Prudente,VILA_PRUDENTE,Vila Prudente,Vila_Prudente,104313
+2025,East_2,Itaquera,ITAQUERA,Cidade Líder,Cidade_Lider,138636
+2025,East_2,Cidade Tiradentes,CIDADE_TIRADENTES,Cidade Tiradentes,Cidade_Tiradentes,247011
+2025,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ermelino Matarazzo,Ermelino_Matarazzo,120638
+2025,East_2,Guaianases,GUAIANASES,Guaianases,Guaianases,112900
+2025,East_2,São Mateus,SAO_MATEUS,Iguatemi,Iguatemi,159199
+2025,East_2,Itaim Paulista,ITAIM_PAULISTA,Itaim Paulista,Itaim_Paulista,240863
+2025,East_2,Itaquera,ITAQUERA,Itaquera,Itaquera,214841
+2025,East_2,São Miguel,SAO_MIGUEL,Jardim Helena,Jardim_Helena,137806
+2025,East_2,Itaquera,ITAQUERA,José Bonifácio,Jose_Bonifacio,140799
+2025,East_2,Guaianases,GUAIANASES,Lajeado,Lajeado,180037
+2025,East_2,Itaquera,ITAQUERA,Parque do Carmo,Parque_do_Carmo,73208
+2025,East_2,Ermelino Matarazzo,ERMELINO_MATARAZZO,Ponte Rasa,Ponte_Rasa,88762
+2025,East_2,São Mateus,SAO_MATEUS,São Mateus,Sao_Mateus,157061
+2025,East_2,São Miguel,SAO_MIGUEL,São Miguel,Sao_Miguel,88408
+2025,East_2,São Mateus,SAO_MATEUS,São Rafael,Sao_Rafael,166522
+2025,East_2,Itaim Paulista,ITAIM_PAULISTA,Vila Curuçá,Vila_Curuca,156772
+2025,East_2,São Miguel,SAO_MIGUEL,Vila Jacuí,Vila_Jacui,148044
+2025,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Jaçanã,Jacana,96643
+2025,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Mandaqui,Mandaqui,109476
+2025,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Santana,Santana,110322
+2025,North_1,Jaçanã/Tremembé,JACANA_TREMEMBE,Tremembé,Tremembe,233475
+2025,North_1,Santana/Tucuruvi,SANTANA_TUCURUVI,Tucuruvi,Tucuruvi,94882
+2025,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Guilherme,Vila_Guilherme,57745
+2025,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Maria,Vila_Maria,114281
+2025,North_1,Vila Maria/Vila Guilherme,VILA_MARIA_VILA_GUILHERME,Vila Medeiros,Vila_Medeiros,121826
+2025,North_2,Perus,PERUS,Anhanguera,Anhanguera,91410
+2025,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Brasilândia,Brasilandia,290427
+2025,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Cachoeirinha,Cachoeirinha,148770
+2025,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Casa Verde,Casa_Verde,85775
+2025,North_2,Freguesia/Brasilândia,FREGUESIA_BRASILANDIA,Freguesia do Ó,Freguesia_do_O,139492
+2025,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Jaraguá,Jaragua,222849
+2025,North_2,Casa Verde/Cachoeirinha,CASA_VERDE_CACHOEIRINHA,Limão,Limao,79697
+2025,North_2,Perus,PERUS,Perus,Perus,93361
+2025,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,Pirituba,Pirituba,171803
+2025,North_2,Pirituba/Jaraguá,PIRITUBA_JARAGUA,São Domingos,Sao_Domingos,86895
+2025,West,,NAO_IDENTIFICADO,OESTE,OESTE,1087011
+2025,West,Pinheiros,PINHEIROS,Alto de Pinheiros,Alto_de_Pinheiros,39695
+2025,West,Lapa,LAPA,Barra Funda,Barra_Funda,17285
+2025,West,Butantã,BUTANTA,Butantã,Butanta,53147
+2025,West,Pinheiros,PINHEIROS,Itaim Bibi,Itaim_Bibi,97290
+2025,West,Lapa,LAPA,Jaguara,Jaguara,23629
+2025,West,Lapa,LAPA,Jaguaré,Jaguare,57033
+2025,West,Pinheiros,PINHEIROS,Jardim Paulista,Jardim_Paulista,89980
+2025,West,Lapa,LAPA,Lapa,Lapa,66729
+2025,West,Butantã,BUTANTA,Morumbi,Morumbi,54739
+2025,West,Lapa,LAPA,Perdizes,Perdizes,114578
+2025,West,Pinheiros,PINHEIROS,Pinheiros,Pinheiros,65238
+2025,West,Butantã,BUTANTA,Raposo Tavares,Raposo_Tavares,110138
+2025,West,Butantã,BUTANTA,Rio Pequeno,Rio_Pequeno,125304
+2025,West,Lapa,LAPA,Vila Leopoldina,Vila_Leopoldina,46531
+2025,West,Butantã,BUTANTA,Vila Sônia,Vila_Sonia,125695
+2025,South_1,Ipiranga,IPIRANGA,Cursino,Cursino,114731
+2025,South_1,Ipiranga,IPIRANGA,Ipiranga,Ipiranga,113775
+2025,South_1,Jabaquara,JABAQUARA,Jabaquara,Jabaquara,230998
+2025,South_1,Vila Mariana,VILA_MARIANA,Moema,Moema,90046
+2025,South_1,Ipiranga,IPIRANGA,Sacomã,Sacoma,268936
+2025,South_1,Vila Mariana,VILA_MARIANA,Saúde,Saude,133551
+2025,South_1,Vila Mariana,VILA_MARIANA,Vila Mariana,Vila_Mariana,131214
+2025,South_2,Santo Amaro,SANTO_AMARO,Campo Belo,Campo_Belo,62326
+2025,South_2,Santo Amaro,SANTO_AMARO,Campo Grande,Campo_Grande,108280
+2025,South_2,Campo Limpo,CAMPO_LIMPO,Campo Limpo,Campo_Limpo,235852
+2025,South_2,Campo Limpo,CAMPO_LIMPO,Capão Redondo,Capao_Redondo,307656
+2025,South_2,Cidade Ademar,CIDADE_ADEMAR,Cidade Ademar,Cidade_Ademar,293133
+2025,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Cidade Dutra,Cidade_Dutra,206419
+2025,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Grajaú,Grajau,403388
+2025,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim Ângela,Jardim_Angela,356669
+2025,South_2,M'Boi Mirim,M_BOI_MIRIM,Jardim São Luís,Jardim_Sao_Luis,304059
+2025,South_2,Parelheiros,PARELHEIROS,Marsilac,Marsilac,8610
+2025,South_2,Parelheiros,PARELHEIROS,Parelheiros,Parelheiros,163145
+2025,South_2,Cidade Ademar,CIDADE_ADEMAR,Pedreira,Pedreira,168409
+2025,South_2,Santo Amaro,SANTO_AMARO,Santo Amaro,Santo_Amaro,74220
+2025,South_2,Capela do Socorro,CAPELA_DO_SOCORRO,Socorro,Socorro,35223
+2025,South_2,Campo Limpo,CAMPO_LIMPO,Vila Andrade,Vila_Andrade,176340
