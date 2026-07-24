@@ -3,13 +3,13 @@ message: "If you use this repository, please cite it using the metadata below."
 title: "Smart and Sustainable Cities: Urban Sports Infrastructure and Premature NCD Mortality in São Paulo"
 type: software
 authors:
-  - family-names: "Marques"
-    given-names: "Karinne Regina Simplicio"
+  - family-names: "Simplicio Marques"
+    given-names: "Karinne Regina"
     affiliation: "Graduate Program in Smart and Sustainable Cities (PPG-CIS), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
     orcid: "https://orcid.org/0009-0007-2394-1080"
 
-  - family-names: "Ferreira dos Santos"
-    given-names: "André Luis Marques"
+  - family-names: "Marques Ferreira dos Santos"
+    given-names: "André Luis"
     affiliation: "Graduate Program in Informatics and Knowledge Management (PPGI), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
     orcid: "https://orcid.org/0000-0002-5232-0781"
 
