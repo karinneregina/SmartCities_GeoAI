@@ -10,8 +10,13 @@ authors:
 
   - family-names: "Ferreira dos Santos"
     given-names: "André Luis Marques"
-    affiliation: "Graduate Program in Informatics ans Knowledge Management (PPGI), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
+    affiliation: "Graduate Program in Informatics and Knowledge Management (PPGI), Universidade Nove de Julho (UNINOVE), São Paulo, Brazil"
     orcid: "https://orcid.org/0000-0002-5232-0781"
+
+  - family-names: "Marques Simplicio Ferreira dos Santos"
+    given-names: "Andrey"
+    affiliation: "High-School Program, Irei Mackenzie School, São Paulo, Brazil"
+    orcid: "https://orcid.org/0009-0002-8619-0126"
 
   - family-names: "Pellini"
     given-names: "Alessandra Cristina Guedes"
